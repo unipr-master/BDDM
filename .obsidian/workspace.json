@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78914171633c827c",
+        "id": "9cd732f4e94556d2",
         "type": "tabs",
         "children": [
           {
-            "id": "77c7a8ccae36b3dc",
+            "id": "043827fa735b78d3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "appunti/2.5_NoSQL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2.5_NoSQL"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -166,32 +164,36 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "77c7a8ccae36b3dc",
+  "active": "3049fe5eb170d9ad",
   "lastOpenFiles": [
-    "6. NoSQL.md",
+    "images/Pasted image 20250312135432.png",
+    "images/Pasted image 20250312135328.png",
+    "images/Pasted image 20250312135921.png",
+    "E2. Tabelle hash e indici invertiti.md",
+    "appunti/E2.Hash_Table__Inverted_Indexes.pdf",
+    "E1. Indici e alberi B+.md",
+    "images/Pasted image 20250312114317.png",
+    "images/Pasted image 20250312114550.png",
+    "images/Pasted image 20250312105400.png",
+    "images/Pasted image 20250312111302.png",
+    "images/Pasted image 20250312111508.png",
+    "images/Pasted image 20250312111548.png",
+    "images/Pasted image 20250312111346.png",
+    "appunti/E1.Indexes_B+Trees.pdf",
     "appunti/2.5_NoSQL.pdf",
-    "Pasted image 20250307102413.png",
-    "Pasted image 20250307101828.png",
-    "3. Relational Data and XML.md",
-    "4. XQuery.md",
+    "appunti/3.1_Intro_IR.pdf",
+    "6. NoSQL.md",
+    "4. XQuery (DA FARE).md",
     "5. XQuery nei DBMS.md",
+    "3. Relational Data and XML.md",
     "appunti/2.4_XQuery_in_DBMS.pdf",
-    "images/Pasted image 20250305140029.png",
-    "images/Pasted image 20250305140007.png",
     "appunti/2.3_XQuery.pdf",
     "appunti/2.2_SQL_XML.pdf",
-    "Pasted image 20250304172336.png",
-    "images/Pasted image 20250304170253.png",
-    "images/Pasted image 20250304171645.png",
-    "images/Pasted image 20250304171614.png",
-    "images/Pasted image 20250304171233.png",
     "appunti/2.1_Intro_XML.pdf",
     "2. Introduction to XML.md",
-    "images/Pasted image 20250220124228.png",
     "1. Semi-structured and unstructured data.md",
     "appunti/1.2_Models.pdf",
     "appunti",
-    "images",
     "Benvenuto.md"
   ]
 }
