@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd732f4e94556d2",
+        "id": "7c4d3db1d6a9415d",
         "type": "tabs",
         "children": [
           {
-            "id": "043827fa735b78d3",
+            "id": "558c3e16cd1942f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "pdf",
+              "state": {
+                "file": "appunti/3.5_Advanced_Methods.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3.5_Advanced_Methods"
+            }
+          },
+          {
+            "id": "6c13a978bb256832",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "appunti/3.3_IR_Evaluation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3.3_IR_Evaluation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,36 +179,39 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "3049fe5eb170d9ad",
+  "active": "6c13a978bb256832",
   "lastOpenFiles": [
-    "images/Pasted image 20250312135432.png",
-    "images/Pasted image 20250312135328.png",
-    "images/Pasted image 20250312135921.png",
+    "Metodi Avanzati.md",
+    "appunti/3.5_Advanced_Methods.pdf",
+    "appunti/3.3_IR_Evaluation.pdf",
+    "appunti/3.3_IR_Evaluation.pdf.crdownload",
+    "appunti/3.5_Advanced_Methods.pdf.crdownload",
+    "appunti/3.2_Ranking.pdf",
+    "8. Ranking.md",
+    "Pasted image 20250401144003.png",
+    "Pasted image 20250401143216.png",
+    "Pasted image 20250401142156.png",
+    "Pasted image 20250313131556.png",
+    "Pasted image 20250313131449.png",
+    "Pasted image 20250313130934.png",
+    "images/Pasted image 20250313123244.png",
+    "images/Pasted image 20250313114615.png",
+    "7. Recupero dell'informazione (Information Retrieval).md",
+    "appunti/3.1_Intro_IR.pdf",
+    "images/Pasted image 20250313123241.png",
+    "images/Pasted image 20250313122144.png",
+    "6. NoSQL.md",
     "E2. Tabelle hash e indici invertiti.md",
     "appunti/E2.Hash_Table__Inverted_Indexes.pdf",
     "E1. Indici e alberi B+.md",
-    "images/Pasted image 20250312114317.png",
-    "images/Pasted image 20250312114550.png",
-    "images/Pasted image 20250312105400.png",
-    "images/Pasted image 20250312111302.png",
-    "images/Pasted image 20250312111508.png",
-    "images/Pasted image 20250312111548.png",
-    "images/Pasted image 20250312111346.png",
     "appunti/E1.Indexes_B+Trees.pdf",
     "appunti/2.5_NoSQL.pdf",
-    "appunti/3.1_Intro_IR.pdf",
-    "6. NoSQL.md",
     "4. XQuery (DA FARE).md",
     "5. XQuery nei DBMS.md",
     "3. Relational Data and XML.md",
     "appunti/2.4_XQuery_in_DBMS.pdf",
-    "appunti/2.3_XQuery.pdf",
-    "appunti/2.2_SQL_XML.pdf",
-    "appunti/2.1_Intro_XML.pdf",
     "2. Introduction to XML.md",
     "1. Semi-structured and unstructured data.md",
-    "appunti/1.2_Models.pdf",
-    "appunti",
     "Benvenuto.md"
   ]
 }
