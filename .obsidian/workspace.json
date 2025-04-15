@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "968866d4b73a7bdf",
+            "id": "3935d7ded2e68c9f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250405180933.png"
+                "file": "11. Large Language Models.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250405180933"
+              "icon": "lucide-file",
+              "title": "11. Large Language Models"
             }
           }
         ]
@@ -167,15 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "968866d4b73a7bdf",
+  "active": "3935d7ded2e68c9f",
   "lastOpenFiles": [
+    "notes/3.6_LLMs_for_Information_Retrieval.pdf",
+    "notes/3.6_LLMs_for_Information_Retrieval.pdf.crdownload",
+    "Pasted image 20250415164006.png",
+    "Pasted image 20250415163929.png",
+    "10. Metodi Avanzati.md",
+    "11. Large Language Models.md",
+    "11. Web Information Retrieval.md",
+    "images/Pasted image 20250405180933.png",
     "4. XQuery (DA FARE).md",
     "notes/2.3_XQuery.pdf",
-    "images/Pasted image 20250405180933.png",
     "images/Pasted image 20250405174507.png",
-    "11. Web Information Retrieval.md",
     "notes/3.5_Web_Information_Retrieval.pdf",
-    "10. Metodi Avanzati.md",
     "8. Ranking.md",
     "9. Information Retrieval Evaluation.md",
     "7. Information Retrieval.md",
@@ -187,15 +194,12 @@
     "notes/E1.Indexes_B+Trees.pdf",
     "notes/3.3_IR_Evaluation.pdf",
     "notes/3.2_Ranking.pdf",
-    "notes/3.1_Intro_IR.pdf",
     "Pasted image 20250405165750.png",
     "E1. Indici e alberi B+.md",
     "Pasted image 20250405160750.png",
     "Pasted image 20250401144003.png",
     "Pasted image 20250401143216.png",
     "Pasted image 20250401142156.png",
-    "Pasted image 20250313131556.png",
-    "Pasted image 20250313131449.png",
     "6. NoSQL.md",
     "E2. Tabelle hash e indici invertiti.md",
     "5. XQuery nei DBMS.md",
